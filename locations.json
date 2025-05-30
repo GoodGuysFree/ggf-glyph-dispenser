@@ -1,0 +1,32 @@
+{
+    "New Aleria": {
+        "galaxy": "256",
+        "address": "4417FE7FBBCB",
+        "num_returns": 8,
+        "description": "The GoodGuysFree Community Planet!"
+    },
+    "GGF Pyramid Portal": {
+        "galaxy": "1",
+        "address": "10B300979ECB",
+        "num_returns": 3,
+        "description": "GoodGuysFree's Pyramid Portal base in Euclid!"
+    },
+    "GGF's Glass Dome Base": {
+        "galaxy": "10",
+        "address": "11C3FED58DC7",
+        "num_returns": 3,
+        "description": "Giant Glass Dome base. https://youtu.be/Vj08OXp3NaI"
+    },
+    "GGF's Cyclotron Base": {
+        "galaxy": "1",
+        "address": "4063FD68EDCF",
+        "num_returns": 1,
+        "description": "Base shown in this video: https://youtu.be/QbzAUDIRuxc"
+    },
+    "GGF's Beach Resort Paradise": {
+        "galaxy": "10",
+        "address": "104001357553",
+        "num_returns": 1,
+        "description": "A beach resort with a dock and a ship, built before Worlds-1"
+    }
+}
